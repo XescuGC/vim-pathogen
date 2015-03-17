@@ -1,3 +1,4 @@
+![logo](https://github.com/XescuGC/vim-pathogen/blob/logo/images/pathogen.jpg)
 # pathogen.vim
 
 Manage your `'runtimepath'` with ease.  In practical terms, pathogen.vim
